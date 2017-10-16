@@ -1,0 +1,5 @@
+// import $ from 'jquery'
+import '../../public/js/jquery.draggable.js'
+import '../../public/js/jquery.modal.js'
+import '../../public/js/jquery.nicescroll.min.js'
+import '../../public/js/common.js'
